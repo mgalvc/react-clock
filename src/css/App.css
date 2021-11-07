@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:wght@300&display=swap');
+
+.App {
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'Red Hat Mono', monospace;
+}
