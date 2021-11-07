@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 It's a small clock application for learning purposes.
 
+Hosted [here](https://master.dw5ur32qco6c5.amplifyapp.com/) with AWS.
+
 ## Available Scripts
 
 In the project directory, you can run:
